@@ -1,0 +1,6 @@
+{
+  "name": "particleEngine-js",
+  "dependencies": {
+    "pixi.js": "GoodBoyDigital/pixi.js#^3.0.0"
+  }
+}
